@@ -1,2 +1,5 @@
-# minimal-api-master
-minimal-api-master
+# MOCK API SETUP GUIDE
+
+https://docs-minimals.vercel.app/quick-start/mock-server
+
+ 
